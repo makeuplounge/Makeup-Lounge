@@ -61,4 +61,11 @@ as we mentioned in the Requirements List, these are the tools that you have to d
 All these you can do it from github itself.
 
 # Communications Channels
+You can contact with us via:<br>
+-Email: info@Makeuplounge.com<br>
+
+-Phone: 1-800-Makeup-lounge
+
+
+
 
