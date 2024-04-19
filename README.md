@@ -36,7 +36,7 @@ Requirements:
 -Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
 
 # Development Status
-[1.0.0] - 2024-02-01
+[1.0.0] - 2024-02-01<br>
 Added:<br>
 
 -Added a blog section for sharing community insights and updates.<br>
@@ -49,3 +49,9 @@ Changed:
 -Upgraded the server infrastructure to improve website performance.<br>
 -Changed the default color scheme to a more modern and vibrant palette.
 
+# Downloads
+as we mentioned in the Requirements List, these are the tools that you have to download:
+-XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a><br>
+-Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
+
+# 
