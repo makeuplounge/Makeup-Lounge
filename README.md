@@ -23,7 +23,7 @@ Our project ia a free and Open-source.
 
 # Features and Requirements List
 Features:
--User-Friendly Booking Platform: Create an intuitive interface for easy and hassle-free booking.
+-User-Friendly Booking Platform: Create an intuitive interface for easy and hassle-free booking.<br>
 -Selection of Exquisite Products: Curate a collection of high-quality and luxurious beauty products.
 -Elegant and Stylish Shopping Experience: Ensure every step of the shopping process exudes sophistication and style.
 -Personalized Beauty Recommendations: Tailor product suggestions to each customer's preferences and needs.
