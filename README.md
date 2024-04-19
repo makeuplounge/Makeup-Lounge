@@ -54,8 +54,11 @@ as we mentioned in the Requirements List, these are the tools that you have to d
 -XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a><br>
 -Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
 
-# Version Control and Bug Tracker
+# Version Control and Bug Tracker Access
 -you can commit your changes and see the changes of other users from https://github.com/makeuplounge/Makeup-Lounge/commits/main/<br> 
 -you can report any issue or any bug from https://github.com/makeuplounge/Makeup-Lounge/issues<br>
 
 All these you can do it from github itself.
+
+# Communications Channels
+
