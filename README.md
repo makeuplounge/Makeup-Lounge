@@ -1,5 +1,5 @@
 # MakeupLounge
-<strong> OpenSource web Application for MakeupLounge <a href="">Click Me!</a></strong>
+Link to Makeup Loung Website <a href="">Click Me!</a>
 
 # Mission Statment
 Makeup lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
