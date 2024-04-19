@@ -37,7 +37,7 @@ Requirements:
 
 # Development Status
 [1.0.0] - 2024-02-01
-Added:
+Added:<br>
 
 -Added a blog section for sharing community insights and updates.<br>
 -Introduced a new user dashboard with personalized settings.<br>
