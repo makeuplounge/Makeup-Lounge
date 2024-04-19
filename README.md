@@ -21,3 +21,17 @@ To choose a good name for our project, we tried to think of some words that are 
 # The Project is Free and Open-Source
 Our project ia a free and Open-source.
 
+# Features and Requirements List
+Features:
+-User-Friendly Booking Platform: Create an intuitive interface for easy and hassle-free booking.
+-Selection of Exquisite Products: Curate a collection of high-quality and luxurious beauty products.
+-Elegant and Stylish Shopping Experience: Ensure every step of the shopping process exudes sophistication and style.
+-Personalized Beauty Recommendations: Tailor product suggestions to each customer's preferences and needs.
+-Transparent Pricing and Policies: Provide clear pricing information and transparent policies regarding purchases, returns, and additional services.
+-Secure and Reliable Shopping Platform: Implement strong security measures to protect customer data and transactions.
+-Accessible Customer Support: Offer readily available channels for customers to ask questions, address concerns, and make special requests promptly.
+
+Requirements:
+-XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a>
+-Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
+
