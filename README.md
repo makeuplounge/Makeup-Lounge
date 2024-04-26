@@ -1,5 +1,5 @@
 # MakeupLounge
-Link to Makeup Loung Website <a href="http://localhost/webpages/main.php">Click Me!</a>
+Link to Makeup Loung Website <a href="http://localhost/webpages/main.php](https://e6b6-2a02-ce0-3000-1f4b-1985-8b2b-83cb-4fa3.ngrok-free.app/project476/main.php">Click Me!</a>
 
 # Mission Statment
 Makeup lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
@@ -115,7 +115,7 @@ You can contact with us via:<br>
 -Backend: PHP<br>
 -Version Control: Git<br>
 <b>Getting Started:</b><br>
-1.Clone the repository from .<br>
+1.Clone the repository from https://github.com/makeuplounge/Makeup-Lounge.git <br>
 2.Install dependencies for both frontend and backend.<br>
 3.Set up environment variables:<br>
 -Create a .env file in the server directory.<br>
