@@ -157,4 +157,4 @@ You can contact with us via:<br>
 
 # Announcing
 
-You can see our new announcements about new features and products in the website from: <a href="#annoncing">Announcements</a>
+You can see our new announcements about new news, features and products in the website from: <a href="https://e6b6-2a02-ce0-3000-1f4b-1985-8b2b-83cb-4fa3.ngrok-free.app/project476/Announcment.php">Announcements</a>
