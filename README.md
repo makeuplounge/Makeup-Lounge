@@ -23,14 +23,32 @@ Our project is free and Open-source.
 
 # Features and Requirements List
 Features:
--User-Friendly Booking Platform: Create an intuitive interface for easy and hassle-free booking.<br>
--Selection of Exquisite Products: Curate a collection of high-quality and luxurious beauty products.<br>
--Elegant and Stylish Shopping Experience: Ensure every step of the shopping process exudes sophistication and style.<br>
--Personalized Beauty Recommendations: Tailor product suggestions to each customer's preferences and needs.<br>
--Transparent Pricing and Policies: Provide clear pricing information and transparent policies regarding purchases, returns, and additional services.<br>
--Secure and Reliable Shopping Platform: Implement strong security measures to protect customer data and transactions.<br>
--Accessible Customer Support: Offer readily available channels for customers to ask questions, address concerns, and make special requests promptly.<br>
+1. Product Catalog:<br>
+Feature: Display a wide range of makeup products with detailed descriptions and images.
+Requirements: Product database, product listing pages, product details pages, search and filtering functionality.<br>
+2. User Reviews and Ratings:<br>
+Feature: Enable users to leave reviews and ratings for products they have purchased.
+Requirements: Review submission form, display reviews and ratings on product pages.<br>
+3. Responsive Design:<br>
+Feature: Ensure that the website is accessible and usable across various devices and screen sizes.
+Requirements: Responsive layout, mobile-friendly design, compatibility testing.<br>
+4. Performance Optimization:<br>
+Feature: Optimize website performance for fast loading times and smooth browsing experience.
+Requirements: Minimize page load times, optimize images and assets, caching strategies.<br>
+5. Security Measures:<br>
+Feature: Implement security measures to protect user data and prevent security breaches.
+Requirements: Encryption of sensitive data, secure authentication, HTTPS protocol, regular security audits.<br>
+6. Accessibility Compliance:<br>
+Feature: Ensure that the website is accessible to users with disabilities, in compliance with WCAG guidelines.
+Requirements: Semantic HTML, ARIA attributes, keyboard navigation support, screen reader compatibility.<br>
+7. Analytics and Reporting:<br>
+Feature: Collect data on user interactions and website performance for analysis and reporting.
+Requirements: Integration with analytics tools (e.g., Google Analytics), custom reporting features.<br>
+8. Continuous Improvement:<br>
+Feature: Continuously update and improve the website based on user feedback and emerging trends.
+Requirements: Feedback collection mechanisms, agile development process, regular updates and enhancements to this code.<br>
 
+Here are the requirments you need if you want to participate in our project:<br>
 Requirements:
 -XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a><br>
 -Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
