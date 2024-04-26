@@ -1,0 +1,255 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #ffcccc;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #ff9999;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: #ff6666;
+}
+
+.dropdown {
+    padding: 10px 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.main-content {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #ff6666;
+    text-align: center;
+    margin: auto; 
+    display: flex;  
+    flex-direction: column; 
+}
+
+h2 {
+    color: #ff6666;
+    text-align: center;
+    background-color: #ffcccc45;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;  
+    padding: auto;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dropdown2,
+.dropdown3 {
+    padding: 10px 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content2,
+.dropdown-content3 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content2 a,
+.dropdown-content3 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content2 a:hover,
+.dropdown-content3 a:hover {
+    background-color: #ddd;
+}
+
+.dropdown2:hover .dropdown-content2,
+.dropdown3:hover .dropdown-content3 {
+    display: block;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+.container3 {
+    width: 350px;
+    height: 350px;
+    margin: auto; 
+    display: flex;  
+    flex-direction: column; 
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    margin: 20px 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    margin: 20px 10px;
+    padding: 20px;
+    background-color: #ff6666;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #ff4d4d;
+}
+
+/* Styles for "Why Us" Section */
+.why-us {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.why-us h2 {
+    color: #ff6666;
+    text-align: left;
+}
+
+.why-us p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* Styles for "Announcements" Section */
+.announcement {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.announcement h2 {
+    color: #ff6666;
+    text-align: center;
+    background-color: #ffcccc45;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.announcement p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.feedback {
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+    padding: 20px;
+    margin:20px 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.feedback-form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.feedback-form form {
+    width: 300px;
+}
+
+.feedback h2 {
+    color: #ff6666;
+    text-align: center;
+    background-color: #ffcccc45;
+    padding: 20px;
+    margin:20px 10px;
+    border-radius: 10px;
+}
+
+.feedback p {
+    text-align: justify;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin:20px 10px;
+}
+
+.feedback form {
+    
+    display: flex;
+    flex-direction: column;
+}
