@@ -114,32 +114,43 @@ You can contact with us via:<br>
 -Frontend: HTML5, CSS3<br>
 -Backend: PHP<br>
 -Version Control: Git<br>
-<b>Getting Started:</b><br>
+## Getting Started:
 1.Clone the repository from https://github.com/makeuplounge/Makeup-Lounge.git <br>
 2.Install dependencies for both frontend and backend.<br>
 3.Set up environment variables:<br>
 -Create a .env file in the server directory.<br>
 4.Run the development servers.<br>
-<b>Features:</b><br>
+## Features:
 -User Authentication: Allow users to sign up, log in, and log out.<br>
 -Product Catalog: Display a variety of makeup products with details.<br>
 -Shopping Cart: Enable users to add and remove products from their cart.<br>
 -Checkout Process: Guide users through a secure checkout process.<br>
 -Order History: Display a history of user orders.<br>
 -Admin Dashboard: Provide administrators with tools to manage products, orders, and users.<br>
-<b>Security Considerations:</b><br>
+## Security Considerations:
 -Implement secure authentication mechanisms using JWT tokens.<br>
 -Sanitize user inputs to prevent SQL injection and XSS attacks.<br>
 -Encrypt sensitive data stored in the database.<br>
 -Use HTTPS to encrypt data transmitted between the client and server.<br>
-<b>Testing:</b><br>
+## Testing:
 -Unit tests: Write unit tests for backend API endpoints using frameworks like Jest or Mocha.<br>
 -Integration tests: Test the interaction between frontend and backend components.<br>
 -End-to-end tests: Conduct end-to-end tests to simulate user interactions and workflows.<br>
-<b>Deployment:</b><br>
+
+## Deployment:
 -Deploy the frontend and backend to cloud platforms like Heroku or AWS.<br>
 -Set up continuous integration and continuous deployment (CI/CD) pipelines for automated deployment.<br>
 
 # Screenshots
 
-## 
+# Code of Conduct
+<b>At Makeup Lounge, we strive to maintain a welcoming and inclusive environment for all users, customers, and team members. Our code of conduct outlines the standards of behavior and mutual respect that are expected from everyone interacting with our website and community.</b>
+
+<b>Inclusivity and Diversity:</b> We embrace diversity and inclusivity in all aspects of our website and community. Discrimination, harassment, or any form of intolerance based on race, ethnicity, gender, sexual orientation, religion, age, disability, or any other characteristic will not be tolerated.
+<b>Respectful Communication:</b> Treat others with kindness, empathy, and respect in all communications, including comments, reviews, and interactions on our platform. Avoid offensive language, derogatory remarks, personal attacks, or any behavior that may cause harm or discomfort to others.
+<b>Professionalism:</b> Maintain professionalism in all interactions, especially when representing Makeup Lounge as a team member or affiliate. Conduct yourself ethically and uphold the reputation of our brand by adhering to our values and principles.
+<b>Privacy and Security:</b> Respect the privacy and security of others by refraining from sharing sensitive or personal information without consent. Protect user data and privacy by following security best practices and complying with relevant laws and regulations.
+<b>Content Guidelines:</b> Ensure that all content posted or shared on Makeup Lounge, including product listings, reviews, and comments, adheres to our content guidelines. Avoid posting spam, misleading information, or inappropriate content that may offend or deceive others.
+Compliance with Laws: Abide by all applicable laws, regulations, and policies when using Makeup Lounge services or participating in our community. Do not engage in any illegal or fraudulent activities that could jeopardize the integrity of our platform.
+<b>Reporting Violations:</b> If you encounter any violations of this code of conduct or witness behavior that goes against our values, please report it promptly to our support team. We take all reports seriously and will take appropriate action to address the issue.
+<b>Accountability:</b> Everyone is responsible for their actions and the impact they have on our community. Take ownership of your behavior and strive to contribute positively to the Makeup Lounge community by fostering a culture of respect and inclusivity.
