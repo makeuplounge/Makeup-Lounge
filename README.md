@@ -154,3 +154,7 @@ You can contact with us via:<br>
 <b>6. ompliance with Laws:</b> Abide by all applicable laws, regulations, and policies when using Makeup Lounge services or participating in our community. Do not engage in any illegal or fraudulent activities that could jeopardize the integrity of our platform.<br>
 <b>7. Reporting Violations:</b> If you encounter any violations of this code of conduct or witness behavior that goes against our values, please report it promptly to our support team. We take all reports seriously and will take appropriate action to address the issue.<br>
 <b>8. Accountability:</b> Everyone is responsible for their actions and the impact they have on our community. Take ownership of your behavior and strive to contribute positively to the Makeup Lounge community by fostering a culture of respect and inclusivity.<br>
+
+# Announcing
+
+You can see our new announcements about new features and products in the website from <a href="#annoncing">Announcements</a>
