@@ -143,6 +143,8 @@ You can contact with us via:<br>
 
 # Screenshots
 
+<img src="Screenshots/Screenshot (41).png" alt="Home">
+
 # Code of Conduct
 <b>At Makeup Lounge, we strive to maintain a welcoming and inclusive environment for all users, customers, and team members. Our code of conduct outlines the standards of behavior and mutual respect that are expected from everyone interacting with our website and community.</b><br>
 
