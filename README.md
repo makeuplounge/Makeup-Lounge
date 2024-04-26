@@ -110,7 +110,7 @@ You can contact with us via:<br>
 -Actively seek feedback from users and stakeholders to prioritize feature enhancements and bug fixes.
 
 # Developer Documentation
-<b>Technologies Used:</b><br>
+## Technologies Used:
 -Frontend: HTML5, CSS3<br>
 -Backend: PHP<br>
 -Version Control: Git<br>
@@ -142,4 +142,4 @@ You can contact with us via:<br>
 
 # Screenshots
 
-gyfthftyfyguyguyg
+## 
