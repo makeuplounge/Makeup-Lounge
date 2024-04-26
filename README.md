@@ -143,7 +143,14 @@ You can contact with us via:<br>
 
 # Screenshots
 
-<img src="Screenshots/Screenshot (41).png" alt="Home">
+Home page <img src="Screenshots/Screenshot (41).png" alt="Home">
+Announcement page <img src="Screenshots/Screenshot (42).png" alt="Home">
+Feedback page <img src="Screenshots/Screenshot (43).png" alt="Home">
+Features and requirments page <img src="Screenshots/Screenshot (44).png" alt="Home">
+Developer guidline page <img src="Screenshots/Screenshot (45).png" alt="Home">
+Developer documentation page <img src="Screenshots/Screenshot (46).png" alt="Home">
+Code of conduct page <img src="Screenshots/Screenshot (47).png" alt="Home">
+Change Log page <img src="Screenshots/Screenshot (48).png" alt="Home">
 
 # Code of Conduct
 <b>At Makeup Lounge, we strive to maintain a welcoming and inclusive environment for all users, customers, and team members. Our code of conduct outlines the standards of behavior and mutual respect that are expected from everyone interacting with our website and community.</b><br>
