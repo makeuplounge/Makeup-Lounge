@@ -1,5 +1,5 @@
 # MakeupLounge
-Link to Makeup Loung Website <a href="">Click Me!</a>
+Link to Makeup Loung Website <a href="https://crisp-usually-marmoset.ngrok-free.app/project476/main.php">Click Me!</a>
 
 # Mission Statment
 Makeup lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
@@ -10,19 +10,19 @@ At Makeup lounge , we aspire to be the go-to choice for those who appreciate ref
 
 # Looking Around for Similar Projects
 Of course, we did not start our project before looking for similar projects that could compete with ours. There will be a lot of websites that sell beauty products as well. Here are some projects that we found to be competitors for our project:
-https://github.com/IsaacMeirelles/BeautySmart
-https://github.com/Vishal6300/Skinstore.com
-https://github.com/yogourt/CosmetiqueOrganique
-https://github.com/acupoftee/Makeup-Ecommerce-Landing-Page
+https://github.com/IsaacMeirelles/BeautySmart<br>
+https://github.com/Vishal6300/Skinstore.com<br>
+https://github.com/yogourt/CosmetiqueOrganique<br>
+https://github.com/acupoftee/Makeup-Ecommerce-Landing-Page<br>
 
 # Choosing a Good Name 
-To choose a good name for our project, we tried to think of some words that are relevant to the purpose of the project so that anyone can easily find it the first time. We also searched for projects and websites with the same name and found only a few websites.
+To choose a good name for our project, we tried to think of some words that are relevant to the purpose of the project so that anyone can easily find it the first time. We also searched for projects and websites with the same name.
 
 # The Project is Free and Open-Source
 Our project is free and Open-source.
 
 # Features and Requirements List
-Features:<br>
+Features:
 1. Product Catalog:<br>
 Feature: Display a wide range of makeup products with detailed descriptions and images.
 Requirements: Product database, product listing pages, product details pages, search and filtering functionality.<br>
@@ -46,24 +46,26 @@ Feature: Collect data on user interactions and website performance for analysis 
 Requirements: Integration with analytics tools (e.g., Google Analytics), custom reporting features.<br>
 8. Continuous Improvement:<br>
 Feature: Continuously update and improve the website based on user feedback and emerging trends.
-Requirements: Feedback collection mechanisms, agile development process, regular updates and enhancements to this code<br>
-Requirements:<br>
+Requirements: Feedback collection mechanisms, agile development process, regular updates and enhancements to this code.<br>
+
+Here are the requirments you need if you want to participate in our project:<br>
+Requirements:
 -XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a><br>
 -Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
 
 # Development Status
 [Version 1.0.0] - April 1, 2023<br>
-Implemented user authentication system for user registration, login, and logout.<br>
+-Implemented user authentication system for user registration, login, and logout.<br>
 
-Developed product catalog pages to display various makeup products with details.<br>
+-Developed product catalog pages to display various makeup products with details.<br>
 
-Integrated shopping cart functionality to allow users to add and remove products.<br>
+-Integrated shopping cart functionality to allow users to add and remove products.<br>
 
-Created a secure checkout process for users to complete their purchases.<br>
+-Created a secure checkout process for users to complete their purchases.<br>
 
-Added an order history feature to display a record of user orders.<br>
+-Added an order history feature to display a record of user orders.<br>
 
-Implemented an admin dashboard with tools for managing products, orders, and users<br>
+-Implemented an admin dashboard with tools for managing products, orders, and users<br>
 
 # Downloads
 as we mentioned in the Requirements List, these are the tools that you have to download:<br>
@@ -81,6 +83,7 @@ You can contact with us via:<br>
 -Email: makeuplounge23@gmail.com<br>
 
 -Phone: 1234123
+
 # Developer Guidelines
 1. Coding Standards:<br>
 -Follow consistent coding conventions for HTML, CSS, and backend code.<br>
@@ -158,6 +161,15 @@ You can contact with us via:<br>
 
 # Screenshots
 
+Home page <img src="Screenshots/Screenshot (41).png" alt="Home">
+Announcement page <img src="Screenshots/Screenshot (42).png" alt="Home">
+Feedback page <img src="Screenshots/Screenshot (43).png" alt="Home">
+Features and requirments page <img src="Screenshots/Screenshot (44).png" alt="Home">
+Developer guidline page <img src="Screenshots/Screenshot (45).png" alt="Home">
+Developer documentation page <img src="Screenshots/Screenshot (46).png" alt="Home">
+Code of conduct page <img src="Screenshots/Screenshot (47).png" alt="Home">
+Change Log page <img src="Screenshots/Screenshot (48).png" alt="Home">
+
 # Code of Conduct
 <b>At Makeup Lounge, we strive to maintain a welcoming and inclusive environment for all users, customers, and team members. Our code of conduct outlines the standards of behavior and mutual respect that are expected from everyone interacting with our website and community.</b><br>
 
@@ -172,7 +184,4 @@ You can contact with us via:<br>
 
 # Announcing
 
-You can see our new announcements about new news, features and products in the website from: <a href="https://e6b6-2a02-ce0-3000-1f4b-1985-8b2b-83cb-4fa3.ngrok-free.app/project476/Announcment.php">Announcements</a>
-
-
-
+You can see our new announcements about new news, features and products in the website from: <a href="https://crisp-usually-marmoset.ngrok-free.app/project476/Announcment.php">Announcements</a>
