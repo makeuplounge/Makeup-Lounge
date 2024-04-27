@@ -1,0 +1,16 @@
+
+     
+MIT License
+
+Copyright (c) 2024 Makeup lounge
+
+The following terms and conditions must be met in order for anyone obtaining a copy of this software and any related documentation files (collectively, the "Software") to be granted permission to deal with it without restriction. This includes the freedom to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, among other rights.
+All copies or significant parts of the Software must have the aforementioned copyright notice and permission notice.
+With no express or implied warranty of any kind, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement, the software is provided "as is."    
+Neither the authors nor the owners of the copyright shall in any case be liable for any claims, losses, or other liabilities arising from, out of, or connected with the software or the use or other dealings in the software, whether in a contract, tort, or other action.
+
+
+Contact Us
+Email: Makeuplounge@gmail.com
+Phone: 123-4123
+             
