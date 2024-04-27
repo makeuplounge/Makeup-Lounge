@@ -19,35 +19,51 @@ https://github.com/acupoftee/Makeup-Ecommerce-Landing-Page
 To choose a good name for our project, we tried to think of some words that are relevant to the purpose of the project so that anyone can easily find it the first time. We also searched for projects and websites with the same name and found only a few websites.
 
 # The Project is Free and Open-Source
-Our project ia a free and Open-source.
+Our project is free and Open-source.
 
 # Features and Requirements List
-Features:
--User-Friendly Booking Platform: Create an intuitive interface for easy and hassle-free booking.<br>
--Selection of Exquisite Products: Curate a collection of high-quality and luxurious beauty products.<br>
--Elegant and Stylish Shopping Experience: Ensure every step of the shopping process exudes sophistication and style.<br>
--Personalized Beauty Recommendations: Tailor product suggestions to each customer's preferences and needs.<br>
--Transparent Pricing and Policies: Provide clear pricing information and transparent policies regarding purchases, returns, and additional services.<br>
--Secure and Reliable Shopping Platform: Implement strong security measures to protect customer data and transactions.<br>
--Accessible Customer Support: Offer readily available channels for customers to ask questions, address concerns, and make special requests promptly.<br>
-
-Requirements:
+Features:<br>
+1. Product Catalog:<br>
+Feature: Display a wide range of makeup products with detailed descriptions and images.
+Requirements: Product database, product listing pages, product details pages, search and filtering functionality.<br>
+2. User Reviews and Ratings:<br>
+Feature: Enable users to leave reviews and ratings for products they have purchased.
+Requirements: Review submission form, display reviews and ratings on product pages.<br>
+3. Responsive Design:<br>
+Feature: Ensure that the website is accessible and usable across various devices and screen sizes.
+Requirements: Responsive layout, mobile-friendly design, compatibility testing.<br>
+4. Performance Optimization:<br>
+Feature: Optimize website performance for fast loading times and smooth browsing experience.
+Requirements: Minimize page load times, optimize images and assets, caching strategies.<br>
+5. Security Measures:<br>
+Feature: Implement security measures to protect user data and prevent security breaches.
+Requirements: Encryption of sensitive data, secure authentication, HTTPS protocol, regular security audits.<br>
+6. Accessibility Compliance:<br>
+Feature: Ensure that the website is accessible to users with disabilities, in compliance with WCAG guidelines.
+Requirements: Semantic HTML, ARIA attributes, keyboard navigation support, screen reader compatibility.<br>
+7. Analytics and Reporting:<br>
+Feature: Collect data on user interactions and website performance for analysis and reporting.
+Requirements: Integration with analytics tools (e.g., Google Analytics), custom reporting features.<br>
+8. Continuous Improvement:<br>
+Feature: Continuously update and improve the website based on user feedback and emerging trends.
+Requirements: Feedback collection mechanisms, agile development process, regular updates and enhancements to this code<br>
+Requirements:<br>
 -XAMPP Installation: Set up XAMPP to establish the server environment needed for hosting the Makeup Lounge web application. <a href="https://www.apachefriends.org/index.html" target="_blank">Download it from here</a><br>
 -Text Editor of Choice: Utilize any preferred text editor for coding and development tasks. (Visual Studio Code is suggested.) <a href="https://code.visualstudio.com/" target="_blank">Download it from here</a>
 
 # Development Status
-[1.0.0] - 2024-02-01<br>
-Added:<br>
+[Version 1.0.0] - April 1, 2023<br>
+Implemented user authentication system for user registration, login, and logout.<br>
 
--Added a blog section for sharing community insights and updates.<br>
--Introduced a new user dashboard with personalized settings.<br>
--Integrated social media sharing options for articles and pages.<br>
+Developed product catalog pages to display various makeup products with details.<br>
 
-Changed:
+Integrated shopping cart functionality to allow users to add and remove products.<br>
 
--Reorganized the project's folder structure for better code organization.<br>
--Upgraded the server infrastructure to improve website performance.<br>
--Changed the default color scheme to a more modern and vibrant palette.
+Created a secure checkout process for users to complete their purchases.<br>
+
+Added an order history feature to display a record of user orders.<br>
+
+Implemented an admin dashboard with tools for managing products, orders, and users<br>
 
 # Downloads
 as we mentioned in the Requirements List, these are the tools that you have to download:<br>
@@ -62,9 +78,9 @@ All these you can do it from github itself.
 
 # Communications Channels
 You can contact with us via:<br>
--Email: info@Makeuplounge.com<br>
+-Email: makeuplounge23@gmail.com<br>
 
--Phone: 1-800-Makeup-lounge
+-Phone: 1234123
 # Developer Guidelines
 1. Coding Standards:<br>
 -Follow consistent coding conventions for HTML, CSS, and backend code.<br>
