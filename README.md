@@ -1,12 +1,12 @@
 # MakeupLounge
-Link to Makeup Loung Website <a href="https://crisp-usually-marmoset.ngrok-free.app/project476/main.php">Click Me!</a>
+Link to Makeup Lounge Website <a href="https://crisp-usually-marmoset.ngrok-free.app/project476/main.php">Click Me!</a>
 
 # Mission Statement
 Makeup lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
 
 We are committed to curating a selection of extraordinary beauty products that elevate the senses and enhance personal well-being. Beauty Luxe prides itself on offering an array of premium skincare, makeup, haircare, and fragrance items that exude sophistication and opulence.
 
-At Makeup lounge , we aspire to be the go-to choice for those who appreciate refinement and elegance in their beauty routines. We strive to offer our discerning clientele a convenient and sophisticated shopping experience, ensuring that every purchase reflects the luxury and prestige they deserve.
+At Makeup lounge ,we aspire to be the go-to choice for those who appreciate refinement and elegance in their beauty routines. We strive to offer our discerning clientele a convenient and sophisticated shopping experience, ensuring that every purchase reflects the luxury and prestige they deserve.
 
 # Looking Around for Similar Projects
 Of course, we did not start our project before looking for similar projects that could compete with ours. There will be a lot of websites that sell beauty products as well. Here are some projects that we found to be competitors for our project:
@@ -63,9 +63,9 @@ Requirements:
 
 -Created a secure checkout process for users to complete their purchases.<br>
 
--Added an order history feature to display a record of user orders.<br>
+-Added an Order history feature to display a record of user orders.<br>
 
--Implemented an admin dashboard with tools for managing products, orders, and users<br>
+-Implemented an Admin dashboard with tools for managing products, orders, and users<br>
 
 # Downloads
 as we mentioned in the Requirements List, these are the tools that you have to download:<br>
