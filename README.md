@@ -2,7 +2,7 @@
 Link to Makeup Lounge Website <a href="https://crisp-usually-marmoset.ngrok-free.app/project476/main.php">Click Me!</a>
 
 # Mission Statement
-Makeup lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
+Makeup Lounge is a recently launched online destination for indulging in luxurious beauty products, developed as Free and Open-Source Software. Our mission is to cater to individuals seeking the pinnacle of beauty and self-care experiences by providing a seamless and user-friendly shopping platform.
 
 We are committed to curating a selection of extraordinary beauty products that elevate the senses and enhance personal well-being. Beauty Luxe prides itself on offering an array of premium skincare, makeup, haircare, and fragrance items that exude sophistication and opulence.
 
