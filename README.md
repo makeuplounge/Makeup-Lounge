@@ -6,7 +6,7 @@ Makeup Lounge is a recently launched online destination for indulging in luxurio
 
 We are committed to curating a selection of extraordinary beauty products that elevate the senses and enhance personal well-being. Beauty Luxe prides itself on offering an array of premium skincare, makeup, haircare, and fragrance items that exude sophistication and opulence.
 
-At Makeup lounge ,we aspire to be the go-to choice for those who appreciate refinement and elegance in their beauty routines. We strive to offer our discerning clientele a convenient and sophisticated shopping experience, ensuring that every purchase reflects the luxury and prestige they deserve.
+At Makeup Lounge,we aspire to be the go-to choice for those who appreciate refinement and elegance in their beauty routines. We strive to offer our discerning clientele a convenient and sophisticated shopping experience, ensuring that every purchase reflects the luxury and prestige they deserve.
 
 # Looking Around for Similar Projects
 Of course, we did not start our project before looking for similar projects that could compete with ours. There will be a lot of websites that sell beauty products as well. Here are some projects that we found to be competitors for our project:
