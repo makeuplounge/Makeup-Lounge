@@ -22,13 +22,13 @@ To choose a good name for our project, we tried to think of some words that are 
 Our project is free and Open-source.
 
 # Features and Requirements List
-Features:
+The Features:
 1. Product Catalog:<br>
 Feature: Display a wide range of makeup products with detailed descriptions and images.
 Requirements: Product database, product listing pages, product details pages, search and filtering functionality.<br>
 2. User Reviews and Ratings:<br>
 Feature: Enable users to leave reviews and ratings for products they have purchased.
-Requirements: Review submission form, display reviews and ratings on product pages.<br>
+Requirements: Review the submission form, and display reviews and ratings on product pages.<br>
 3. Responsive Design:<br>
 Feature: Ensure that the website is accessible and usable across various devices and screen sizes.
 Requirements: Responsive layout, mobile-friendly design, compatibility testing.<br>
@@ -43,7 +43,7 @@ Feature: Ensure that the website is accessible to users with disabilities, in co
 Requirements: Semantic HTML, ARIA attributes, keyboard navigation support, screen reader compatibility.<br>
 7. Analytics and Reporting:<br>
 Feature: Collect data on user interactions and website performance for analysis and reporting.
-Requirements: Integration with analytics tools (e.g., Google Analytics), custom reporting features.<br>
+Requirements: Integration with analytics tools (e.g., Google Analytics), and custom reporting features.<br>
 8. Continuous Improvement:<br>
 Feature: Continuously update and improve the website based on user feedback and emerging trends.
 Requirements: Feedback collection mechanisms, agile development process, regular updates and enhancements to this code.<br>
